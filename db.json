@@ -29,6 +29,12 @@
       "email": "z@gmail.com",
       "password": "z@gmail.com",
       "id": 5
+    },
+    {
+    "name": "Vikesh Vijay Hinge",
+    "email": "admin@gmail.com",
+    "password": "admin@123",
+    "id": 6
     }
   ],
   "recipes": [
